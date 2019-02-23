@@ -1,9 +1,9 @@
-# Xamarin Forms Training Course
+﻿# Xamarin Forms Training Course
 
 Sample Project for Xamarin Forms Course 
 
 # Training Agenda
--	(Done) Intro to mobile development technologies vs Xamarin.
+-	Intro to mobile development technologies vs Xamarin.
 -	Environment installation and configuration with “hello world” project.
 -	XAML vs Code.
 -	Xamarin Forms Pages.
