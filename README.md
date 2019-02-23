@@ -1,6 +1,9 @@
 ﻿# Xamarin Forms Training Course
-
-Sample Project for Xamarin Forms Course 
+HR Sample Project for Xamarin Forms Course 
+The project contains the following:
+- Employee List Page
+- Add and Update Employee
+- Master Details Page
 
 # Training Agenda
 -	Intro to mobile development technologies vs Xamarin.
