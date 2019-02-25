@@ -16,10 +16,10 @@ The project contains the following:
 -	Localization and Multi-Language.
 -	Styles and Themes.
 -	Binding Values and Commands.
--   Into to Animations
+-	Into to Animations
 -	MVVM pattern.
 -	Other (On Platform, compilers ...etc.).
--   Intro to Xamarin.Android and Xamarin.iOS
+-	Intro to Xamarin.Android and Xamarin.iOS
 -	Custom Renders.
 -	Automated Testing (Unit Test and UI Test).
 -	Deployment to Google Play and App Store.
