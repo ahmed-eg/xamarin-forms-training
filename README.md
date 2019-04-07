@@ -24,3 +24,20 @@ The project contains the following:
 -	Automated Testing (Unit Test and UI Test).
 -	Deployment to Google Play and App Store.
 -	Best practice for full project including iOS, Android, back-end API and DB.
+
+
+# deployment
+
+## Fastlane
+
+`https://flutter.dev/docs/deployment/fastlane-cd`
+
+## Manual
+
+Android 
+`https://flutter.dev/docs/deployment/android`
+iOS
+`https://flutter.dev/docs/deployment/ios`
+
+## Online
+`https://codemagic.io/`
